@@ -1,0 +1,30 @@
+.gameContainer{
+    align-items: center;
+    background-image: linear-gradient(rgb(205, 255, 125),rgb(36, 241, 163));
+    border: black solid;
+    border-radius: 20px;
+    margin: auto;
+    width: 300px;
+    height: 320px;
+}
+#simText{
+    text-align: center;
+}
+#Computer{
+
+}
+#Player{
+
+}
+#Result{
+
+}
+#FIRE{
+    background-image: linear-gradient(rgb(255, 167, 67),rgb(255, 115, 0));
+}
+#WATER{
+    background-image: linear-gradient(rgb(67, 202, 255),rgb(0, 183, 255));
+}
+#GRASS{
+    background-image: linear-gradient(rgb(152, 255, 67),rgb(0, 255, 13));
+}
